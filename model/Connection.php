@@ -4,10 +4,10 @@ class Connection{
 
     public static function getConnection(){
 
-        $host = "localhost";
-        $dbname = "estoque";
-        $user = "root";
-        $pass = "root";
+        $host = "";
+        $dbname = "";
+        $user = "";
+        $pass = "";
         
         try{
             
